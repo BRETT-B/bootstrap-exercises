@@ -1,0 +1,11 @@
+.top-left{
+	background-color: lightblue;
+	height: 200px;
+}
+.bottom-left{
+	background-color: lightcoral;
+	height: 200px;
+}
+.right-column{
+	background-color: lightgoldenrodyellow;
+}
