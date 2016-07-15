@@ -1,0 +1,14 @@
+body {
+	background-color: #cee8ff;
+}
+
+h2{
+	text-align: left;
+}
+
+.advert {
+	text-align: center;
+	background-color: #85c4ff;
+	float: right;
+	height: 123px;
+}
